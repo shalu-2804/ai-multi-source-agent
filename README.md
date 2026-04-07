@@ -1,4 +1,4 @@
-# BPSS RAG System
+# AI-POWERED AGENT
 
 A Retrieval-Augmented Generation (RAG) system for analyzing BPSS (Baseline Personnel Security Standard) screening data.
 
