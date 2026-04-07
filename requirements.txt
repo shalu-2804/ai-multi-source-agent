@@ -1,0 +1,8 @@
+chromadb==0.4.24
+pypdf==4.0.1
+python-docx==0.8.11
+pandas==2.2.0
+openpyxl==3.1.5
+python-dotenv==1.0.0
+sentence-transformers==2.5.1
+requests==2.33.1
