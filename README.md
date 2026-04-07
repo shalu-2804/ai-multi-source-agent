@@ -56,20 +56,20 @@ main.py                        # Entry point (interactive mode)
 
 ## Features
 
-- ✅ Interactive Q&A with document citations
-- ✅ Structured data querying (CSV-based)
-- ✅ Policy violation detection
-- ✅ Compliance issue analysis
-- ✅ Zero API costs (local LLM)
-- ✅ Clean, maintainable code
+- Interactive Q&A with document citations
+- Structured data querying (CSV-based)
+- Policy violation detection
+- Compliance issue analysis
+- Zero API costs (local LLM)
+- Clean, maintainable code
 
 For detailed usage, see [USAGE.md](USAGE.md).
 
 This system processes confidential screening data. Ensure:
-- ✅ Proper access controls on API keys
-- ✅ Secure storage of responses
-- ✅ Audit logging of all queries
-- ✅ Compliance with GDPR/local privacy laws
+- Proper access controls on API keys
+- Secure storage of responses
+- Audit logging of all queries
+- Compliance with GDPR/local privacy laws
 
 ## Support
 
