@@ -6,7 +6,7 @@
 
 ### What I've built
 
-🏦 **At ANZ Banking Group** — Designed and deployed a RAG-based agent that reduced developer Jira review cycles from several weeks to 1–2 days. It was adopted by a second engineering team without modification. Also built 3–5 LLM automation agents for internal support workflows and delivered AI education sessions internally and at partner universities.
+🏦 **At ANZ Banking Group** — Designed and deployed a RAG-based agent that reduced developer Jira review cycles from several weeks to 1–2 days. Also built 3–5 LLM automation agents for internal support workflows and delivered AI education sessions internally and at partner universities.
 
 🤖 **On GitHub** — A multi-source RAG agent with hybrid structured/unstructured retrieval, tool orchestration, and citation-backed responses. Built for production patterns, not notebooks.
 
@@ -20,7 +20,7 @@
 
 ### Currently
 
-🎯 Targeting AI/ML and Software Engineering roles — open to relocation to Canada  
+🎯 Targeting AI/ML and Software Engineering roles 
 📍 Based in Bengaluru, India
 
 ---
