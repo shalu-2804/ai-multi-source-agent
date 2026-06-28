@@ -1,6 +1,5 @@
 # Multi-Source RAG Agent
 
-![CI](https://github.com/shalu-2804/ai-multi-source-agent/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
