@@ -1,80 +1,34 @@
-# AI-POWERED AGENT
+# Hi, I'm Shalini 👋
 
-A Retrieval-Augmented Generation (RAG) system for analyzing BPSS (Baseline Personnel Security Standard) screening data.
+**AI/ML Engineer** — I build LLM agents, RAG pipelines, and enterprise automation systems that actually ship to production.
 
-## Quick Start
+---
 
-```bash
-# Activate virtual environment
-source venv/bin/activate
+### What I've built
 
-# Run interactive chat
-python main.py
-```
+🏦 **At ANZ Banking Group** — Designed and deployed a RAG-based agent that reduced developer Jira review cycles from several weeks to 1–2 days. It was adopted by a second engineering team without modification. Also built 3–5 LLM automation agents for internal support workflows and delivered AI education sessions internally and at partner universities.
 
-## Requirements
+🤖 **On GitHub** — A multi-source RAG agent with hybrid structured/unstructured retrieval, tool orchestration, and citation-backed responses. Built for production patterns, not notebooks.
 
-- Python 3.9+
-- Ollama with llama3.1:8b model
-- Virtual environment (already set up)
+---
 
-## How to Use
+### Stack
 
-Simply run `python main.py` and ask questions:
+`Python` · `LangChain` · `RAG / Vector DBs` · `LLM Agent Development` · `Java Spring Boot` · `Apache Kafka` · `Docker / Kubernetes` · `Azure` · `ETL Pipelines`
 
-```
-Which records violate policies?
-Which candidates are high risk?
-What compliance issues exist?
-Tell me about CAND-101
-```
+---
 
-Each answer includes citations from source documents.
+### Currently
 
-## Architecture
+🎯 Targeting AI/ML and Software Engineering roles — open to relocation to Canada  
+📍 Based in Bengaluru, India
 
-- **Vector DB**: Chroma (12 documents indexed)
-- **Embeddings**: Sentence Transformers
-- **LLM**: Ollama (llama3.1:8b) - local, no API costs
-- **Data**: 6 candidates with CSV tracking + Word documents
+---
 
-## Project Structure
+### Pinned
 
-```
-src/
-  ├── document_loader.py      # PDF/DOCX/CSV loading
-  ├── vector_retriever.py     # Chroma vector database
-  ├── structured_queryer.py   # CSV data queries
-  ├── agent_tools.py          # Tool collection
-  └── bpss_agent.py           # RAG agent with citations
+- 🔗 [ai-multi-source-agent](https://github.com/shalu-2804/ai-multi-source-agent) — Multi-source RAG agent with hybrid retrieval and evidence-grounded answers
 
-config/
-  └── settings.py             # Configuration constants
+---
 
-main.py                        # Entry point (interactive mode)
-```
-
-## Features
-
-- Interactive Q&A with document citations
-- Structured data querying (CSV-based)
-- Policy violation detection
-- Compliance issue analysis
-- Zero API costs (local LLM)
-- Clean, maintainable code
-
-For detailed usage, see [USAGE.md](USAGE.md).
-
-This system processes confidential screening data. Ensure:
-- Proper access controls on API keys
-- Secure storage of responses
-- Audit logging of all queries
-- Compliance with GDPR/local privacy laws
-
-## Support
-
-For issues or questions:
-1. Check `Troubleshooting` section above
-2. Review code comments in `src/` modules
-3. Inspect tool call history: `agent.get_tool_call_history()`
-4. Check vector DB stats: `vector_retriever.get_collection_stats()`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/rita-shaliniraj-k-379038264)
