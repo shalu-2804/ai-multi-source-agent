@@ -168,6 +168,3 @@ The BPSS screening domain is the sample dataset — the agent architecture is do
 
 ---
 
-## Related work
-
-This project applies the same RAG + agent architecture patterns used in production at ANZ Banking Group, where a similar system reduced developer Jira review cycles from several weeks to 1–2 days and was subsequently adopted by a second engineering team.
